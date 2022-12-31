@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "F3 Commands Fix",
+  "mainClass": "net.labymod.addons.Wector11211.F3CommandsFix",
+  "description": "Brings 1.12 behavior of F3 commands, i.e combination like F3+T doesn't leave debug screen and chat opened after trigger.",
+  "version": 1,
+  "author": "Wector11211",
+  "category": 2,
+  "icon": "https://i.imgur.com/DDgRWtW.png"
+}
